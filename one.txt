@@ -1,0 +1,4 @@
+Trying to understand how the remote git is different from the local git
+Made one repository as git-local on the computor, which would be known as local
+Now making one repository as git-remote on github, which will be known as the remote
+Then would clone the remote one on the computor, and push the local one to github
